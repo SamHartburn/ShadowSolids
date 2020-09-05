@@ -21,7 +21,7 @@ email: sam@samhartburn.co.uk
 website: www.samhartburn.co.uk
 */
 
-use <..\Library\Fractals.scad>;
+use <Fractals.scad>;
 
 $fn=256;
 
